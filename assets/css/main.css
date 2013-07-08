@@ -1,0 +1,18 @@
+.source h1,
+.output h1 {
+  font-family: arial;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+  padding: 11px;
+}
+
+.source, .output, canvas, .canvasContainer{
+  float:left;
+}
+
+.primaryContainer {
+  margin:0 auto;
+  width:1420px;
+}
+
